@@ -3,7 +3,7 @@ node
 
  stage('SCM')
   {
-   git 'https://github.com/gajulasampathkumar/runpipe.git'
+   git 'https://github.com/gajulasampathkumar/spcpipe.git'
   }
  stage('build and package')
   {
